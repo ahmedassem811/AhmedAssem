@@ -1,0 +1,16 @@
+{
+    "searchField": "#search_form_homepage",
+    "searchBtn": "#search_button_homepage",
+    "result": ".results",
+    "result1": "#r1-0",
+    "result2": "#r1-1",
+    "result3": "#r1-2",
+    "resultLink1": "#r1-0 > .result__body > .result__extras > .result__extras__url > .result__url > .result__url__domain",
+    "resultLink2": "#r1-1 > .result__body > .result__extras > .result__extras__url > .result__url > .result__url__domain",
+    "resultLink3": "#r1-2 > .result__body > .result__extras > .result__extras__url > .result__url > .result__url__domain",
+    "errMsg": "#error_homepage",
+    "noResult": ".no-results__title",
+    "tips": ".no-results__tips-list",
+    "newSearch": "#search_form_input",
+    "newSearchBtn": "#search_button"
+}
